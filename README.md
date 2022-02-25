@@ -1,3 +1,3 @@
 # baby-chatroom
 
-Java Socket 编程实现的简单聊天室，Blocking IO。
+A chat room implemented by Java Socket programming. A simple blocing IO model is used.
